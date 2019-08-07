@@ -1,0 +1,2127 @@
+
+Allocating common symbols
+Common symbol       size              file
+
+hci_control_le_pending_tx_buffer
+                    0x70              ./hci_control_le.o
+hci_control_le_connect_timer
+                    0x38              ./hci_control_le.o
+rfcomm_flow_control_timer
+                    0x38              ./empty_wiced_bt.o
+p_key_info_pool     0x4               ./empty_wiced_bt.o
+hci_control_le_remote_bdaddr
+                    0x6               ./hci_control_le.o
+rfcomm_trans_data_timer
+                    0x38              ./empty_wiced_bt.o
+hci_control_cb      0x564             ./empty_wiced_bt.o
+rfcomm_trans_pool   0x4               ./empty_wiced_bt.o
+le_control          0x1b0             ./hci_control_le.o
+
+Discarded input sections
+
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .text          0x00000000        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .data          0x00000000        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .bss           0x00000000        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg.o
+ .text          0x00000000        0x0 ./GeneratedSource/cycfg.o
+ .data          0x00000000        0x0 ./GeneratedSource/cycfg.o
+ .bss           0x00000000        0x0 ./GeneratedSource/cycfg.o
+ .text.init_cycfg_all
+                0x00000000        0x8 ./GeneratedSource/cycfg.o
+ .debug_info    0x00000000      0x5f3 ./GeneratedSource/cycfg.o
+ .debug_abbrev  0x00000000       0xe5 ./GeneratedSource/cycfg.o
+ .debug_aranges
+                0x00000000       0x20 ./GeneratedSource/cycfg.o
+ .debug_ranges  0x00000000       0x10 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000      0x10f ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000     0x12fa ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x1d ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x87 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x51 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0xef ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x6a ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000      0x1df ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000      0x174 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x58 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x17 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x35 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x9c ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x1c ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000     0x117c ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000      0x1ad ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x19 ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x6d ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x4c ./GeneratedSource/cycfg.o
+ .debug_macro   0x00000000       0x10 ./GeneratedSource/cycfg.o
+ .debug_line    0x00000000      0x4d6 ./GeneratedSource/cycfg.o
+ .debug_str     0x00000000     0xb254 ./GeneratedSource/cycfg.o
+ .comment       0x00000000       0x80 ./GeneratedSource/cycfg.o
+ .debug_frame   0x00000000       0x20 ./GeneratedSource/cycfg.o
+ .ARM.attributes
+                0x00000000       0x33 ./GeneratedSource/cycfg.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_gatt_db.o
+ .text          0x00000000        0x0 ./GeneratedSource/cycfg_gatt_db.o
+ .data          0x00000000        0x0 ./GeneratedSource/cycfg_gatt_db.o
+ .bss           0x00000000        0x0 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_info    0x00000000      0x891 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_abbrev  0x00000000      0x17d ./GeneratedSource/cycfg_gatt_db.o
+ .debug_aranges
+                0x00000000       0x18 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x1e5 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000     0x12fa ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x1d ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x87 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x51 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0xef ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x6a ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x1df ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x1d9 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x174 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x58 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x17 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x35 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x9c ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x1c ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000     0x117c ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x1ad ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x46 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x93 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000     0x3802 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x58 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x1f ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x43 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x20 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x18e ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x330 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x10 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0x35 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x4a8 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x9e6 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0xde9 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000       0xa5 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x53a ./GeneratedSource/cycfg_gatt_db.o
+ .debug_macro   0x00000000      0x26b ./GeneratedSource/cycfg_gatt_db.o
+ .debug_line    0x00000000      0x555 ./GeneratedSource/cycfg_gatt_db.o
+ .debug_str     0x00000000    0x37060 ./GeneratedSource/cycfg_gatt_db.o
+ .comment       0x00000000       0x80 ./GeneratedSource/cycfg_gatt_db.o
+ .ARM.attributes
+                0x00000000       0x33 ./GeneratedSource/cycfg_gatt_db.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_pins.o
+ .text          0x00000000        0x0 ./GeneratedSource/cycfg_pins.o
+ .data          0x00000000        0x0 ./GeneratedSource/cycfg_pins.o
+ .bss           0x00000000        0x0 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000     0x12fa ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x1d ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x87 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x51 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0xef ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x6a ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000      0x1df ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x22 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000      0x174 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x58 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x17 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x35 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x9c ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x1c ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000     0x117c ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000      0x1ad ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x19 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x6d ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x4c ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x00000000       0x10 ./GeneratedSource/cycfg_pins.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_routing.o
+ .group         0x00000000        0xc ./GeneratedSource/cycfg_routing.o
+ .text          0x00000000        0x0 ./GeneratedSource/cycfg_routing.o
+ .data          0x00000000        0x0 ./GeneratedSource/cycfg_routing.o
+ .bss           0x00000000        0x0 ./GeneratedSource/cycfg_routing.o
+ .text.init_cycfg_routing
+                0x00000000        0x2 ./GeneratedSource/cycfg_routing.o
+ .debug_info    0x00000000       0x3b ./GeneratedSource/cycfg_routing.o
+ .debug_abbrev  0x00000000       0x2f ./GeneratedSource/cycfg_routing.o
+ .debug_aranges
+                0x00000000       0x20 ./GeneratedSource/cycfg_routing.o
+ .debug_ranges  0x00000000       0x10 ./GeneratedSource/cycfg_routing.o
+ .debug_macro   0x00000000       0x2a ./GeneratedSource/cycfg_routing.o
+ .debug_macro   0x00000000     0x12fa ./GeneratedSource/cycfg_routing.o
+ .debug_macro   0x00000000       0x46 ./GeneratedSource/cycfg_routing.o
+ .debug_line    0x00000000       0x79 ./GeneratedSource/cycfg_routing.o
+ .debug_str     0x00000000     0x501d ./GeneratedSource/cycfg_routing.o
+ .comment       0x00000000       0x80 ./GeneratedSource/cycfg_routing.o
+ .debug_frame   0x00000000       0x20 ./GeneratedSource/cycfg_routing.o
+ .ARM.attributes
+                0x00000000       0x33 ./GeneratedSource/cycfg_routing.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./20819/generated/lib_installer.o
+ .text          0x00000000        0x0 ./20819/generated/lib_installer.o
+ .data          0x00000000        0x0 ./20819/generated/lib_installer.o
+ .bss           0x00000000        0x0 ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000     0x12fa ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000       0x22 ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000       0x87 ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000       0x51 ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000       0xef ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000       0x6a ./20819/generated/lib_installer.o
+ .debug_macro   0x00000000      0x1df ./20819/generated/lib_installer.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .group         0x00000000        0xc ./app_bt_cfg.o
+ .text          0x00000000        0x0 ./app_bt_cfg.o
+ .data          0x00000000        0xd ./app_bt_cfg.o
+ .bss           0x00000000        0x0 ./app_bt_cfg.o
+ .rodata        0x00000000       0x8a ./app_bt_cfg.o
+ .debug_info    0x00000000     0x1120 ./app_bt_cfg.o
+ .debug_abbrev  0x00000000      0x1e4 ./app_bt_cfg.o
+ .debug_aranges
+                0x00000000       0x18 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x1f5 ./app_bt_cfg.o
+ .debug_macro   0x00000000     0x12fa ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x174 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x22 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x52 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x17 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x8d ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x35 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x9c ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x1c ./app_bt_cfg.o
+ .debug_macro   0x00000000     0x117c ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x1ad ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x46 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x1d ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x57 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0xef ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x6a ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x1df ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x22 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x93 ./app_bt_cfg.o
+ .debug_macro   0x00000000     0x3802 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x58 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x1f ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x43 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x20 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x18e ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x330 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x10 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0x35 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x4a8 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x9e6 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0xde9 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0xa5 ./app_bt_cfg.o
+ .debug_macro   0x00000000       0xd0 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x1d9 ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x53a ./app_bt_cfg.o
+ .debug_macro   0x00000000      0x26b ./app_bt_cfg.o
+ .debug_macro   0x00000000       0xbf ./app_bt_cfg.o
+ .debug_line    0x00000000      0x553 ./app_bt_cfg.o
+ .debug_str     0x00000000    0x38ee5 ./app_bt_cfg.o
+ .comment       0x00000000       0x80 ./app_bt_cfg.o
+ .ARM.attributes
+                0x00000000       0x33 ./app_bt_cfg.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./empty_wiced_bt.o
+ .text          0x00000000        0x0 ./empty_wiced_bt.o
+ .text.hci_control_audio_send_connect_complete
+                0x00000000       0x70 ./empty_wiced_bt.o
+ .text.hci_control_audio_send_disconnect_complete
+                0x00000000       0x50 ./empty_wiced_bt.o
+ .text.hci_control_audio_send_started_stopped
+                0x00000000       0x4c ./empty_wiced_bt.o
+ .text.hci_control_send_avrc_event
+                0x00000000       0x3c ./empty_wiced_bt.o
+ .text.hci_control_send_avrc_volume
+                0x00000000       0x40 ./empty_wiced_bt.o
+ .text.utl_strcpy
+                0x00000000       0x14 ./empty_wiced_bt.o
+ .text.utl_strlen
+                0x00000000       0x10 ./empty_wiced_bt.o
+ .debug_macro   0x00000000     0x12fa ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x1d ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x22 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x87 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x51 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0xef ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x6a ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x1df ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x22 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x1d9 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x174 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x58 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x17 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x35 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x9c ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x1c ./empty_wiced_bt.o
+ .debug_macro   0x00000000     0x117c ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x1ad ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x46 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x93 ./empty_wiced_bt.o
+ .debug_macro   0x00000000     0x3802 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x58 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x1f ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x43 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x20 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x18e ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x330 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x10 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x35 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x4a8 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x9e6 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0xde9 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0xa5 ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x53a ./empty_wiced_bt.o
+ .debug_macro   0x00000000      0x26b ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0xd0 ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0xbf ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x1f ./empty_wiced_bt.o
+ .debug_macro   0x00000000       0x6d ./empty_wiced_bt.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag.o
+ .text          0x00000000        0x0 ./hci_control_ag.o
+ .debug_macro   0x00000000     0x12fa ./hci_control_ag.o
+ .debug_macro   0x00000000       0x46 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x1d ./hci_control_ag.o
+ .debug_macro   0x00000000       0x22 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x87 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x51 ./hci_control_ag.o
+ .debug_macro   0x00000000       0xef ./hci_control_ag.o
+ .debug_macro   0x00000000       0x6a ./hci_control_ag.o
+ .debug_macro   0x00000000      0x1df ./hci_control_ag.o
+ .debug_macro   0x00000000       0x22 ./hci_control_ag.o
+ .debug_macro   0x00000000      0x174 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x17 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x35 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x9c ./hci_control_ag.o
+ .debug_macro   0x00000000       0x1c ./hci_control_ag.o
+ .debug_macro   0x00000000     0x117c ./hci_control_ag.o
+ .debug_macro   0x00000000      0x1ad ./hci_control_ag.o
+ .debug_macro   0x00000000       0x46 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x93 ./hci_control_ag.o
+ .debug_macro   0x00000000     0x3802 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x1f ./hci_control_ag.o
+ .debug_macro   0x00000000       0x43 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x20 ./hci_control_ag.o
+ .debug_macro   0x00000000      0x18e ./hci_control_ag.o
+ .debug_macro   0x00000000      0x330 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x10 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x35 ./hci_control_ag.o
+ .debug_macro   0x00000000      0x4a8 ./hci_control_ag.o
+ .debug_macro   0x00000000      0x9e6 ./hci_control_ag.o
+ .debug_macro   0x00000000       0xa5 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x11 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x16 ./hci_control_ag.o
+ .debug_macro   0x00000000      0x76c ./hci_control_ag.o
+ .debug_macro   0x00000000      0x172 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x16 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x4c ./hci_control_ag.o
+ .debug_macro   0x00000000     0x17b1 ./hci_control_ag.o
+ .debug_macro   0x00000000       0xbe ./hci_control_ag.o
+ .debug_macro   0x00000000       0xd0 ./hci_control_ag.o
+ .debug_macro   0x00000000      0x1d9 ./hci_control_ag.o
+ .debug_macro   0x00000000      0x53a ./hci_control_ag.o
+ .debug_macro   0x00000000      0x26b ./hci_control_ag.o
+ .debug_macro   0x00000000       0xbf ./hci_control_ag.o
+ .debug_macro   0x00000000      0x142 ./hci_control_ag.o
+ .debug_macro   0x00000000       0xb2 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x92 ./hci_control_ag.o
+ .debug_macro   0x00000000       0x10 ./hci_control_ag.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_command.o
+ .text          0x00000000        0x0 ./hci_control_ag_command.o
+ .data          0x00000000        0x0 ./hci_control_ag_command.o
+ .bss           0x00000000        0x0 ./hci_control_ag_command.o
+ .debug_macro   0x00000000     0x12fa ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x46 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x1d ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x22 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x87 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x51 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0xef ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x6a ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x1df ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x22 ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x174 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x17 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x35 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x9c ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x1c ./hci_control_ag_command.o
+ .debug_macro   0x00000000     0x117c ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x1ad ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x46 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x93 ./hci_control_ag_command.o
+ .debug_macro   0x00000000     0x3802 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x1f ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x43 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x20 ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x18e ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x330 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x10 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x35 ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x4a8 ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x9e6 ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0xde2 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0xa5 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x11 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x16 ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x76c ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x172 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x16 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x4c ./hci_control_ag_command.o
+ .debug_macro   0x00000000     0x17b1 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0xbe ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0xd0 ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x1d9 ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x53a ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x26b ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0xbf ./hci_control_ag_command.o
+ .debug_macro   0x00000000      0x142 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0xb2 ./hci_control_ag_command.o
+ .debug_macro   0x00000000       0x92 ./hci_control_ag_command.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_rfcomm.o
+ .text          0x00000000        0x0 ./hci_control_ag_rfcomm.o
+ .data          0x00000000        0x0 ./hci_control_ag_rfcomm.o
+ .bss           0x00000000        0x0 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000     0x12fa ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x174 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x22 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x52 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x17 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x8d ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x35 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x9c ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x1c ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000     0x117c ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x1ad ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x46 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x1d ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x57 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0xef ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x6a ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x1df ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x22 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x93 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000     0x3802 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x1f ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x43 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x20 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x18e ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x330 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x10 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x35 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x4a8 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x9e6 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0xde9 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0xa5 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0xd0 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x1d9 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x53a ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x26b ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0xbf ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x46 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x11 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x16 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x76c ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x172 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x16 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x4c ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000     0x17b1 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0xbe ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000      0x142 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0xb2 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00000000       0x92 ./hci_control_ag_rfcomm.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sco.o
+ .text          0x00000000        0x0 ./hci_control_ag_sco.o
+ .data          0x00000000        0x0 ./hci_control_ag_sco.o
+ .bss           0x00000000        0x0 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000     0x12fa ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x46 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x1d ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x22 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x87 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x51 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0xef ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x6a ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x1df ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x22 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x174 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x17 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x35 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x9c ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x1c ./hci_control_ag_sco.o
+ .debug_macro   0x00000000     0x117c ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x1ad ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x46 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x93 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000     0x3802 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x1f ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x43 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x20 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x18e ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x330 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x10 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x35 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x4a8 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x9e6 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0xde2 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0xa5 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x11 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x16 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x76c ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x172 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x16 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x4c ./hci_control_ag_sco.o
+ .debug_macro   0x00000000     0x17b1 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0xbe ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0xd0 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x1d9 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x53a ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x26b ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0xbf ./hci_control_ag_sco.o
+ .debug_macro   0x00000000      0x142 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0xb2 ./hci_control_ag_sco.o
+ .debug_macro   0x00000000       0x92 ./hci_control_ag_sco.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_ag_sdp.o
+ .text          0x00000000        0x0 ./hci_control_ag_sdp.o
+ .bss           0x00000000        0x0 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000     0x12fa ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x1d ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x22 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x87 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x51 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0xef ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x6a ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x1df ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x22 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x1d9 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x174 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x17 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x35 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x9c ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x1c ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000     0x117c ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x1ad ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x46 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x93 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000     0x3802 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x1f ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x43 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x20 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x18e ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x330 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x10 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x35 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x4a8 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x9e6 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0xde9 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0xa5 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x53a ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x26b ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0xd0 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x76c ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x172 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0xbf ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000     0x17b1 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x46 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x11 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x58 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x16 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x16 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x4c ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0xbe ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000      0x142 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0xb2 ./hci_control_ag_sdp.o
+ .debug_macro   0x00000000       0x92 ./hci_control_ag_sdp.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_le.o
+ .text          0x00000000        0x0 ./hci_control_le.o
+ .text.hci_control_le_write_exec_handler
+                0x00000000        0x4 ./hci_control_le.o
+ .text.hci_control_le_mtu_handler
+                0x00000000       0x14 ./hci_control_le.o
+ .text.hci_control_le_timeout
+                0x00000000        0x2 ./hci_control_le.o
+ .debug_macro   0x00000000     0x12fa ./hci_control_le.o
+ .debug_macro   0x00000000       0x46 ./hci_control_le.o
+ .debug_macro   0x00000000       0x1d ./hci_control_le.o
+ .debug_macro   0x00000000       0x22 ./hci_control_le.o
+ .debug_macro   0x00000000       0x87 ./hci_control_le.o
+ .debug_macro   0x00000000       0x51 ./hci_control_le.o
+ .debug_macro   0x00000000       0xef ./hci_control_le.o
+ .debug_macro   0x00000000       0x6a ./hci_control_le.o
+ .debug_macro   0x00000000      0x1df ./hci_control_le.o
+ .debug_macro   0x00000000       0x22 ./hci_control_le.o
+ .debug_macro   0x00000000      0x174 ./hci_control_le.o
+ .debug_macro   0x00000000       0x58 ./hci_control_le.o
+ .debug_macro   0x00000000       0x17 ./hci_control_le.o
+ .debug_macro   0x00000000       0x35 ./hci_control_le.o
+ .debug_macro   0x00000000       0x9c ./hci_control_le.o
+ .debug_macro   0x00000000       0x1c ./hci_control_le.o
+ .debug_macro   0x00000000     0x117c ./hci_control_le.o
+ .debug_macro   0x00000000      0x1ad ./hci_control_le.o
+ .debug_macro   0x00000000       0x46 ./hci_control_le.o
+ .debug_macro   0x00000000       0x93 ./hci_control_le.o
+ .debug_macro   0x00000000     0x3802 ./hci_control_le.o
+ .debug_macro   0x00000000       0x58 ./hci_control_le.o
+ .debug_macro   0x00000000       0x1f ./hci_control_le.o
+ .debug_macro   0x00000000       0x43 ./hci_control_le.o
+ .debug_macro   0x00000000       0x20 ./hci_control_le.o
+ .debug_macro   0x00000000      0x18e ./hci_control_le.o
+ .debug_macro   0x00000000      0x330 ./hci_control_le.o
+ .debug_macro   0x00000000       0x10 ./hci_control_le.o
+ .debug_macro   0x00000000       0x35 ./hci_control_le.o
+ .debug_macro   0x00000000      0x4a8 ./hci_control_le.o
+ .debug_macro   0x00000000      0x9e6 ./hci_control_le.o
+ .debug_macro   0x00000000      0xde2 ./hci_control_le.o
+ .debug_macro   0x00000000       0xa5 ./hci_control_le.o
+ .debug_macro   0x00000000       0x11 ./hci_control_le.o
+ .debug_macro   0x00000000       0x58 ./hci_control_le.o
+ .debug_macro   0x00000000       0x16 ./hci_control_le.o
+ .debug_macro   0x00000000      0x76c ./hci_control_le.o
+ .debug_macro   0x00000000      0x172 ./hci_control_le.o
+ .debug_macro   0x00000000       0x16 ./hci_control_le.o
+ .debug_macro   0x00000000       0x4c ./hci_control_le.o
+ .debug_macro   0x00000000     0x17b1 ./hci_control_le.o
+ .debug_macro   0x00000000       0xbe ./hci_control_le.o
+ .debug_macro   0x00000000       0xd0 ./hci_control_le.o
+ .debug_macro   0x00000000      0x1d9 ./hci_control_le.o
+ .debug_macro   0x00000000      0x53a ./hci_control_le.o
+ .debug_macro   0x00000000      0x26b ./hci_control_le.o
+ .debug_macro   0x00000000       0xbf ./hci_control_le.o
+ .debug_macro   0x00000000      0x142 ./hci_control_le.o
+ .debug_macro   0x00000000       0xb2 ./hci_control_le.o
+ .debug_macro   0x00000000       0x92 ./hci_control_le.o
+ .debug_macro   0x00000000       0x10 ./hci_control_le.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .group         0x00000000        0xc ./hci_control_spp.o
+ .text          0x00000000        0x0 ./hci_control_spp.o
+ .debug_macro   0x00000000     0x12fa ./hci_control_spp.o
+ .debug_macro   0x00000000       0x46 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x1d ./hci_control_spp.o
+ .debug_macro   0x00000000       0x22 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x87 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x51 ./hci_control_spp.o
+ .debug_macro   0x00000000       0xef ./hci_control_spp.o
+ .debug_macro   0x00000000       0x6a ./hci_control_spp.o
+ .debug_macro   0x00000000      0x1df ./hci_control_spp.o
+ .debug_macro   0x00000000       0x22 ./hci_control_spp.o
+ .debug_macro   0x00000000      0x174 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x58 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x17 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x35 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x9c ./hci_control_spp.o
+ .debug_macro   0x00000000       0x1c ./hci_control_spp.o
+ .debug_macro   0x00000000     0x117c ./hci_control_spp.o
+ .debug_macro   0x00000000      0x1ad ./hci_control_spp.o
+ .debug_macro   0x00000000       0x46 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x93 ./hci_control_spp.o
+ .debug_macro   0x00000000     0x3802 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x58 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x1f ./hci_control_spp.o
+ .debug_macro   0x00000000       0x43 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x20 ./hci_control_spp.o
+ .debug_macro   0x00000000      0x18e ./hci_control_spp.o
+ .debug_macro   0x00000000      0x330 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x10 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x35 ./hci_control_spp.o
+ .debug_macro   0x00000000      0x4a8 ./hci_control_spp.o
+ .debug_macro   0x00000000      0x9e6 ./hci_control_spp.o
+ .debug_macro   0x00000000      0xde2 ./hci_control_spp.o
+ .debug_macro   0x00000000       0xa5 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x11 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x58 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x16 ./hci_control_spp.o
+ .debug_macro   0x00000000      0x76c ./hci_control_spp.o
+ .debug_macro   0x00000000      0x172 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x16 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x4c ./hci_control_spp.o
+ .debug_macro   0x00000000     0x17b1 ./hci_control_spp.o
+ .debug_macro   0x00000000       0xbe ./hci_control_spp.o
+ .debug_macro   0x00000000       0xd0 ./hci_control_spp.o
+ .debug_macro   0x00000000      0x1d9 ./hci_control_spp.o
+ .debug_macro   0x00000000      0x53a ./hci_control_spp.o
+ .debug_macro   0x00000000      0x26b ./hci_control_spp.o
+ .debug_macro   0x00000000       0xbf ./hci_control_spp.o
+ .debug_macro   0x00000000      0x142 ./hci_control_spp.o
+ .debug_macro   0x00000000       0xb2 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x92 ./hci_control_spp.o
+ .debug_macro   0x00000000       0x10 ./hci_control_spp.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_bt_cfg.o
+ .text          0x00000000        0x0 ./wiced_bt_cfg.o
+ .data          0x00000000        0x0 ./wiced_bt_cfg.o
+ .bss           0x00000000        0x0 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000     0x12fa ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x1d ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x22 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x87 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x51 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0xef ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x6a ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x1df ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x22 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x174 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x58 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x17 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x35 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x9c ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x1c ./wiced_bt_cfg.o
+ .debug_macro   0x00000000     0x117c ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x1ad ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x46 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x93 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000     0x3802 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x58 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x1f ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x43 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x20 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x18e ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x330 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x10 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0x35 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x4a8 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x9e6 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0xde9 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0xa5 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x1d9 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x53a ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x26b ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0xbf ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x76c ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x172 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000      0x142 ./wiced_bt_cfg.o
+ .debug_macro   0x00000000       0xb2 ./wiced_bt_cfg.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .group         0x00000000        0xc ./wiced_platform.o
+ .text          0x00000000        0x0 ./wiced_platform.o
+ .data          0x00000000        0x0 ./wiced_platform.o
+ .bss           0x00000000        0x0 ./wiced_platform.o
+ .text.wiced_platform_register_button_callback
+                0x00000000       0x44 ./wiced_platform.o
+ .text.wiced_platform_get_button_pressed_value
+                0x00000000       0x10 ./wiced_platform.o
+ .debug_macro   0x00000000     0x12fa ./wiced_platform.o
+ .debug_macro   0x00000000       0x1d ./wiced_platform.o
+ .debug_macro   0x00000000       0x22 ./wiced_platform.o
+ .debug_macro   0x00000000       0x87 ./wiced_platform.o
+ .debug_macro   0x00000000       0x51 ./wiced_platform.o
+ .debug_macro   0x00000000       0xef ./wiced_platform.o
+ .debug_macro   0x00000000       0x6a ./wiced_platform.o
+ .debug_macro   0x00000000      0x1df ./wiced_platform.o
+ .debug_macro   0x00000000       0x22 ./wiced_platform.o
+ .debug_macro   0x00000000      0x174 ./wiced_platform.o
+ .debug_macro   0x00000000       0x58 ./wiced_platform.o
+ .debug_macro   0x00000000       0x17 ./wiced_platform.o
+ .debug_macro   0x00000000       0x35 ./wiced_platform.o
+ .debug_macro   0x00000000       0x9c ./wiced_platform.o
+ .debug_macro   0x00000000       0x1c ./wiced_platform.o
+ .debug_macro   0x00000000     0x117c ./wiced_platform.o
+ .debug_macro   0x00000000      0x1ad ./wiced_platform.o
+ .debug_macro   0x00000000       0x19 ./wiced_platform.o
+ .debug_macro   0x00000000       0x6d ./wiced_platform.o
+ .debug_macro   0x00000000       0x34 ./wiced_platform.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ram              0x0020fab8         0x00060148         xrw
+aon              0x002031f4         0x00001380         xrw
+static_section   0x00500c00         0x00000400         r
+xip_section      0x00511500         0x0002ff00         xr
+log_section      0x81000004         0x00100000         r
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/internal/20819A1/patches/patch.elf
+START GROUP
+LOAD ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+LOAD ./GeneratedSource/cycfg.o
+LOAD ./GeneratedSource/cycfg_gatt_db.o
+LOAD ./GeneratedSource/cycfg_pins.o
+LOAD ./GeneratedSource/cycfg_routing.o
+LOAD ./20819/generated/lib_installer.o
+LOAD ./app_bt_cfg.o
+LOAD ./empty_wiced_bt.o
+LOAD ./hci_control_ag.o
+LOAD ./hci_control_ag_command.o
+LOAD ./hci_control_ag_rfcomm.o
+LOAD ./hci_control_ag_sco.o
+LOAD ./hci_control_ag_sdp.o
+LOAD ./hci_control_le.o
+LOAD ./hci_control_spp.o
+LOAD ./wiced_bt_cfg.o
+LOAD ./wiced_platform.o
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/adc_audio_lib.a
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/multi_adv_lib.a
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/wiced_ble_pre_init_lib.a
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/wiced_hidd_lib.a
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/celt_lib.a
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/air_motion.a
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/adpcm_lib.a
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/ofu_ds2_lib.a
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/mesh_core_lib.a
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/mesh_models_lib.a
+LOAD C:/Users/Public/ModusToolbox_1.1/libraries/bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/libraries/mesh_provisioner_lib.a
+LOAD c:/users/public/modustoolbox_1.1/tools/gcc-7.2.1-1.0/bin/../lib/gcc/arm-none-eabi/7.2.1/thumb/v7e-m\libgcc.a
+END GROUP
+                0x00000000                PROVIDE (spar_irom_length, (spar_irom_end - spar_irom_begin))
+                0x000008c8                PROVIDE (spar_iram_length, (spar_iram_end - spar_iram_begin))
+                0x00000070                PROVIDE (spar_iram_data_length, (spar_iram_data_end - spar_iram_data_begin))
+                0x00000858                PROVIDE (spar_iram_bss_length, (spar_iram_bss_end - spar_iram_bss_begin))
+                0x0020fab8                spar_irom_begin = 0x20fab8
+
+.app_xip_area   0x00511500     0x59b4
+ CREATE_OBJECT_SYMBOLS
+                0x00511500                xip_area_begin = .
+ */empty_wiced_bt.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ .text.hci_control_tx_complete
+                0x00511500       0x1c ./empty_wiced_bt.o
+ .text.hci_control_inquiry_result_cback
+                0x0051151c       0xa4 ./empty_wiced_bt.o
+                0x0051151c                hci_control_inquiry_result_cback
+ .text.hci_control_hci_trace_cback
+                0x005115c0       0x18 ./empty_wiced_bt.o
+                0x005115c0                hci_control_hci_trace_cback
+ .text.application_start
+                0x005115d8       0x74 ./empty_wiced_bt.o
+                0x005115d8                application_start
+ .text.hci_control_write_eir
+                0x0051164c       0xb0 ./empty_wiced_bt.o
+                0x0051164c                hci_control_write_eir
+ .text.hci_control_send_command_status_evt
+                0x005116fc       0x1c ./empty_wiced_bt.o
+                0x005116fc                hci_control_send_command_status_evt
+ .text.hci_control_find_nvram_id
+                0x00511718       0x54 ./empty_wiced_bt.o
+                0x00511718                hci_control_find_nvram_id
+ .text.hci_control_delete_nvram
+                0x0051176c       0x70 ./empty_wiced_bt.o
+                0x0051176c                hci_control_delete_nvram
+ .text.hci_control_write_nvram
+                0x005117dc       0xe8 ./empty_wiced_bt.o
+                0x005117dc                hci_control_write_nvram
+ .text.hci_control_proc_rx_cmd
+                0x005118c4      0x2ac ./empty_wiced_bt.o
+ .text.hci_control_read_nvram
+                0x00511b70       0x34 ./empty_wiced_bt.o
+                0x00511b70                hci_control_read_nvram
+ .text.hci_control_alloc_nvram_id
+                0x00511ba4       0x48 ./empty_wiced_bt.o
+                0x00511ba4                hci_control_alloc_nvram_id
+ .text.hci_control_management_callback
+                0x00511bec      0x2d0 ./empty_wiced_bt.o
+ .text.utl_itoa
+                0x00511ebc       0x48 ./empty_wiced_bt.o
+                0x00511ebc                utl_itoa
+ .text.utl_strucmp
+                0x00511f04       0x2c ./empty_wiced_bt.o
+                0x00511f04                utl_strucmp
+ .text.utl_str2int
+                0x00511f30       0x3c ./empty_wiced_bt.o
+                0x00511f30                utl_str2int
+ .text.utl_bdcpy
+                0x00511f6c       0x12 ./empty_wiced_bt.o
+                0x00511f6c                utl_bdcpy
+ .rodata        0x00511f7e      0x159 ./empty_wiced_bt.o
+                0x00511f7e                transport_cfg
+                0x00512056                hci_control_sdp_db
+ .rodata.str1.1
+                0x005120d7      0x452 ./empty_wiced_bt.o
+ */app_bt_cfg.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ */GeneratedSource/cycfg_gatt_db.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ */spar_setup.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ */wiced_platform.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ *fill*         0x00512529        0x3 
+ .text.wiced_platform_init
+                0x0051252c       0xac ./wiced_platform.o
+                0x0051252c                wiced_platform_init
+ */wiced_platform_pin_config.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ */lib_installer.o(.text.* .gnu.linkonce.t.* .rodata .constdata* .rodata.* .gnu.linkonce.r.*)
+ .text.install_libs
+                0x005125d8        0x2 ./20819/generated/lib_installer.o
+                0x005125d8                install_libs
+ *(.pisec_*)
+ *(.data_in_xip_area)
+ *(.dsp_pram_section)
+ *(.app_init_code)
+ *fill*         0x005125da        0x2 
+ .app_init_code
+                0x005125dc       0x20 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+                0x005125dc                application_start_internal
+ *(.emb_text)
+ *(.text)
+ *(EmHeAacDec)
+ *(.text.*)
+ .text.hci_control_ag_startup
+                0x005125fc       0x70 ./hci_control_ag.o
+                0x005125fc                hci_control_ag_startup
+ .text.hci_control_ag_connect
+                0x0051266c       0x68 ./hci_control_ag.o
+                0x0051266c                hci_control_ag_connect
+ .text.hci_control_ag_disconnect
+                0x005126d4       0x68 ./hci_control_ag.o
+                0x005126d4                hci_control_ag_disconnect
+ .text.hci_control_ag_audio_close
+                0x0051273c       0x34 ./hci_control_ag.o
+                0x0051273c                hci_control_ag_audio_close
+ .text.hci_control_ag_find_scb_by_sco_index
+                0x00512770       0x38 ./hci_control_ag.o
+                0x00512770                hci_control_ag_find_scb_by_sco_index
+ .text.hci_control_send_ag_event
+                0x005127a8       0x80 ./hci_control_ag.o
+                0x005127a8                hci_control_send_ag_event
+ .text.hci_control_ag_audio_open
+                0x00512828       0x78 ./hci_control_ag.o
+                0x00512828                hci_control_ag_audio_open
+ .text.hci_control_ag_handle_command
+                0x005128a0       0x6c ./hci_control_ag.o
+                0x005128a0                hci_control_ag_handle_command
+ .text.hci_control_ag_process_open_callback
+                0x0051290c       0x34 ./hci_control_ag.o
+                0x0051290c                hci_control_ag_process_open_callback
+ .text.hci_control_ag_service_level_up
+                0x00512940       0x28 ./hci_control_ag.o
+                0x00512940                hci_control_ag_service_level_up
+ .text._send_result_to_hf
+                0x00512968       0xb4 ./hci_control_ag_command.o
+ .text._send_OK_to_hf
+                0x00512a1c       0x14 ./hci_control_ag_command.o
+ .text._send_error_to_hf.isra.0
+                0x00512a30       0x14 ./hci_control_ag_command.o
+ .text._handle_command_from_hf
+                0x00512a44      0x1f0 ./hci_control_ag_command.o
+ .text.hci_control_ag_send_BVRA_to_hf
+                0x00512c34       0x18 ./hci_control_ag_command.o
+                0x00512c34                hci_control_ag_send_BVRA_to_hf
+ .text.hci_control_ag_send_BCS_to_hf
+                0x00512c4c       0x3c ./hci_control_ag_command.o
+                0x00512c4c                hci_control_ag_send_BCS_to_hf
+ .text.hci_control_ag_parse_AT_command
+                0x00512c88      0x160 ./hci_control_ag_command.o
+                0x00512c88                hci_control_ag_parse_AT_command
+ .text.hci_control_ag_rfcomm_data_callback
+                0x00512de8       0x98 ./hci_control_ag_rfcomm.o
+                0x00512de8                hci_control_ag_rfcomm_data_callback
+ .text.hci_control_ag_rfcomm_opened
+                0x00512e80       0x58 ./hci_control_ag_rfcomm.o
+ .text.hci_control_ag_rfcomm_start_server
+                0x00512ed8       0x64 ./hci_control_ag_rfcomm.o
+                0x00512ed8                hci_control_ag_rfcomm_start_server
+ .text.hci_control_ag_rfcomm_control_callback
+                0x00512f3c      0x150 ./hci_control_ag_rfcomm.o
+ .text.hci_control_ag_rfcomm_do_open
+                0x0051308c       0x8c ./hci_control_ag_rfcomm.o
+                0x0051308c                hci_control_ag_rfcomm_do_open
+ .text.hci_control_ag_rfcomm_do_close
+                0x00513118       0x50 ./hci_control_ag_rfcomm.o
+                0x00513118                hci_control_ag_rfcomm_do_close
+ .text.hci_control_ag_sco_create
+                0x00513168       0xd0 ./hci_control_ag_sco.o
+                0x00513168                hci_control_ag_sco_create
+ .text.hci_control_ag_sco_close
+                0x00513238       0x48 ./hci_control_ag_sco.o
+                0x00513238                hci_control_ag_sco_close
+ .text.hci_control_ag_sco_management_callback
+                0x00513280      0x11c ./hci_control_ag_sco.o
+                0x00513280                hci_control_ag_sco_management_callback
+ .text.hci_control_cn_timeout
+                0x0051339c       0x34 ./hci_control_ag_sco.o
+                0x0051339c                hci_control_cn_timeout
+ .text.hci_control_ag_sdp_find_attr
+                0x005133d0       0xc4 ./hci_control_ag_sdp.o
+ .text.hci_control_ag_sdp_cback
+                0x00513494       0x8c ./hci_control_ag_sdp.o
+ .text.hci_control_ag_sdp_cback_2
+                0x00513520        0xc ./hci_control_ag_sdp.o
+ .text.hci_control_ag_sdp_cback_1
+                0x0051352c        0xc ./hci_control_ag_sdp.o
+ .text.hci_control_ag_sdp_start_discovery
+                0x00513538       0xa8 ./hci_control_ag_sdp.o
+                0x00513538                hci_control_ag_sdp_start_discovery
+ .text.hci_control_le_connect_timeout
+                0x005135e0       0x3c ./hci_control_le.o
+ .text.hci_control_le_send_read_rsp
+                0x0051361c       0x38 ./hci_control_le.o
+ .text.hci_control_le_send_write_completed
+                0x00513654       0x28 ./hci_control_le.o
+ .text.hci_control_le_process_data
+                0x0051367c       0x3c ./hci_control_le.o
+ .text.hci_control_le_scan_result_cback
+                0x005136b8       0x9c ./hci_control_le.o
+                0x005136b8                hci_control_le_scan_result_cback
+ .text.hci_control_le_handle_disconnect_cmd.part.3
+                0x00513754       0x28 ./hci_control_le.o
+ .text.hci_control_le_init
+                0x0051377c       0xcc ./hci_control_le.o
+                0x0051377c                hci_control_le_init
+ .text.hci_control_le_conn_status_callback
+                0x00513848      0x170 ./hci_control_le.o
+                0x00513848                hci_control_le_conn_status_callback
+ .text.hci_control_le_gatt_operation_comp_cb
+                0x005139b8      0x170 ./hci_control_le.o
+                0x005139b8                hci_control_le_gatt_operation_comp_cb
+ .text.hci_control_le_gatt_disc_result_cb
+                0x00513b28      0x200 ./hci_control_le.o
+                0x00513b28                hci_control_le_gatt_disc_result_cb
+ .text.hci_control_le_gatt_disc_comp_cb
+                0x00513d28       0x34 ./hci_control_le.o
+                0x00513d28                hci_control_le_gatt_disc_comp_cb
+ .text.hci_control_le_read_handler
+                0x00513d5c      0x110 ./hci_control_le.o
+                0x00513d5c                hci_control_le_read_handler
+ .text.hci_control_le_conf_handler
+                0x00513e6c       0x44 ./hci_control_le.o
+                0x00513e6c                hci_control_le_conf_handler
+ .text.hci_control_le_gatt_req_cb
+                0x00513eb0       0xdc ./hci_control_le.o
+                0x00513eb0                hci_control_le_gatt_req_cb
+ .text.hci_control_le_gatt_callback
+                0x00513f8c       0x50 ./hci_control_le.o
+ .text.hci_control_le_send_write
+                0x00513fdc       0x6c ./hci_control_le.o
+                0x00513fdc                hci_control_le_send_write
+ .text.hci_control_le_advert_state_changed
+                0x00514048       0x50 ./hci_control_le.o
+                0x00514048                hci_control_le_advert_state_changed
+ .text.hci_control_le_scan_state_changed
+                0x00514098       0x3c ./hci_control_le.o
+                0x00514098                hci_control_le_scan_state_changed
+ .text.hci_control_le_handle_scan_cmd
+                0x005140d4       0x30 ./hci_control_le.o
+                0x005140d4                hci_control_le_handle_scan_cmd
+ .text.hci_control_le_handle_advertise_cmd
+                0x00514104       0x18 ./hci_control_le.o
+                0x00514104                hci_control_le_handle_advertise_cmd
+ .text.hci_control_le_handle_connect_cmd
+                0x0051411c       0x6c ./hci_control_le.o
+                0x0051411c                hci_control_le_handle_connect_cmd
+ .text.hci_control_le_handle_cancel_connect_cmd
+                0x00514188       0x2c ./hci_control_le.o
+                0x00514188                hci_control_le_handle_cancel_connect_cmd
+ .text.hci_control_le_handle_disconnect_cmd
+                0x005141b4       0x50 ./hci_control_le.o
+                0x005141b4                hci_control_le_handle_disconnect_cmd
+ .text.hci_control_le_handle_service_discovery
+                0x00514204       0xd8 ./hci_control_le.o
+                0x00514204                hci_control_le_handle_service_discovery
+ .text.hci_control_le_handle_characteristic_discovery
+                0x005142dc       0xc8 ./hci_control_le.o
+                0x005142dc                hci_control_le_handle_characteristic_discovery
+ .text.hci_control_le_handle_descriptor_discovery
+                0x005143a4       0xc8 ./hci_control_le.o
+                0x005143a4                hci_control_le_handle_descriptor_discovery
+ .text.hci_control_le_handle_read_req
+                0x0051446c       0xb4 ./hci_control_le.o
+                0x0051446c                hci_control_le_handle_read_req
+ .text.hci_control_le_handle_read_rsp
+                0x00514520       0x5c ./hci_control_le.o
+                0x00514520                hci_control_le_handle_read_rsp
+ .text.hci_control_le_handle_write_cmd
+                0x0051457c      0x12c ./hci_control_le.o
+                0x0051457c                hci_control_le_handle_write_cmd
+ .text.hci_control_le_handle_write_req
+                0x005146a8      0x110 ./hci_control_le.o
+                0x005146a8                hci_control_le_handle_write_req
+ .text.hci_control_le_handle_notify
+                0x005147b8      0x140 ./hci_control_le.o
+                0x005147b8                hci_control_le_handle_notify
+ .text.hci_control_le_handle_indicate
+                0x005148f8       0xb8 ./hci_control_le.o
+                0x005148f8                hci_control_le_handle_indicate
+ .text.hci_control_le_handle_command
+                0x005149b0      0x2d4 ./hci_control_le.o
+                0x005149b0                hci_control_le_handle_command
+ .text.hci_control_spp_rfcomm_flow_control_timer
+                0x00514c84       0x74 ./hci_control_spp.o
+ .text.hci_control_spp_send_event.constprop.14
+                0x00514cf8       0x8c ./hci_control_spp.o
+ .text.hci_control_spp_rfcomm_opened.constprop.11
+                0x00514d84       0x58 ./hci_control_spp.o
+ .text.hci_spp_write
+                0x00514ddc       0x1c ./hci_control_spp.o
+                0x00514ddc                hci_spp_write
+ .text.hci_control_spp_send_data_to_host
+                0x00514df8       0x44 ./hci_control_spp.o
+                0x00514df8                hci_control_spp_send_data_to_host
+ .text.hci_control_spp_rfcomm_trans_data_timer
+                0x00514e3c       0x20 ./hci_control_spp.o
+ .text.hci_control_spp_rfcomm_data_callback
+                0x00514e5c      0x180 ./hci_control_spp.o
+                0x00514e5c                hci_control_spp_rfcomm_data_callback
+ .text.hci_control_spp_rfcomm_start_server
+                0x00514fdc       0x50 ./hci_control_spp.o
+                0x00514fdc                hci_control_spp_rfcomm_start_server
+ .text.hci_control_spp_startup
+                0x0051502c       0x40 ./hci_control_spp.o
+                0x0051502c                hci_control_spp_startup
+ .text.hci_control_spp_rfcomm_closed.constprop.12
+                0x0051506c       0x54 ./hci_control_spp.o
+ .text.hci_control_spp_rfcomm_control_callback
+                0x005150c0       0xc0 ./hci_control_spp.o
+ .text.hci_control_spp_connect
+                0x00515180       0xd8 ./hci_control_spp.o
+                0x00515180                hci_control_spp_connect
+ .text.hci_control_spp_rfcomm_do_open
+                0x00515258       0x68 ./hci_control_spp.o
+                0x00515258                hci_control_spp_rfcomm_do_open
+ .text.hci_control_spp_sdp_cback
+                0x005152c0       0xe8 ./hci_control_spp.o
+ .text.hci_control_spp_rfcomm_do_close
+                0x005153a8       0x4c ./hci_control_spp.o
+                0x005153a8                hci_control_spp_rfcomm_do_close
+ .text.hci_control_spp_disconnect
+                0x005153f4       0x40 ./hci_control_spp.o
+                0x005153f4                hci_control_spp_disconnect
+ .text.hci_spp_send_tx_complete
+                0x00515434       0x28 ./hci_control_spp.o
+                0x00515434                hci_spp_send_tx_complete
+ .text.hci_spp_send
+                0x0051545c       0x7c ./hci_control_spp.o
+                0x0051545c                hci_spp_send
+ .text.hci_control_port_event_cback
+                0x005154d8       0x30 ./hci_control_spp.o
+ .text.hci_control_spp_send_data
+                0x00515508       0x7c ./hci_control_spp.o
+                0x00515508                hci_control_spp_send_data
+ .text.hci_control_spp_handle_command
+                0x00515584       0x48 ./hci_control_spp.o
+                0x00515584                hci_control_spp_handle_command
+ *(.gnu.linkonce.t.*)
+ *(i.*)
+ *(.glue_7t)
+ .glue_7t       0x005155cc        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x005155cc        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x005155cc        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x005155cc        0x0 linker stubs
+ *(.init_code)
+ *(.init_text)
+ *(.spar_setup)
+ .spar_setup    0x005155cc       0x90 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+                0x005155cc                spar_crt_setup
+ *(.ARM.extab*)
+ *(.gnu.linkonce.armextab.*)
+ *(.ARM.exidx*)
+ *(.gnu.linkonce.armexidx.*)
+ *(const_drom_var)
+ *(.rodata)
+ .rodata        0x0051565c       0x4c ./GeneratedSource/cycfg_pins.o
+                0x0051565c                gpio_count
+                0x00515660                button_count
+                0x00515660                platform_gpio
+                0x00515664                platform_button
+                0x00515674                led_count
+                0x00515678                platform_led
+                0x00515690                platform_gpio_pins
+ .rodata        0x005156a8      0x1ac ./hci_control_ag_command.o
+                0x005156a8                bta_ag_result_tbl
+ .rodata        0x00515854        0xc ./hci_control_ag_sco.o
+ .rodata        0x00515860       0xb5 ./hci_control_le.o
+                0x0051587f                hci_control_le_gatt_database
+ *fill*         0x00515915        0x3 
+ .rodata        0x00515918       0x98 ./wiced_bt_cfg.o
+                0x00515918                hci_ag_audio_buf_config
+                0x00515928                hci_ag_cfg_buf_pools
+                0x00515938                hci_ag_cfg_settings
+ *(.constdata*)
+ *(.rodata.*)
+ .rodata.str1.1
+                0x005159b0      0x13c ./hci_control_ag.o
+ .rodata.str1.1
+                0x00515aec      0x1d6 ./hci_control_ag_command.o
+                                0x1db (size before relaxing)
+ .rodata.str1.1
+                0x00515cc2      0x3ce ./hci_control_ag_rfcomm.o
+ .rodata.str1.1
+                0x00516090      0x165 ./hci_control_ag_sco.o
+ .rodata.str1.1
+                0x005161f5      0x120 ./hci_control_ag_sdp.o
+ .rodata.str1.1
+                0x00516315      0x730 ./hci_control_le.o
+ .rodata.str1.1
+                0x00516a45      0x466 ./hci_control_spp.o
+                                0x50f (size before relaxing)
+ .rodata.str1.1
+                0x00516eab        0x9 ./wiced_bt_cfg.o
+ *(.gnu.linkonce.r.*)
+ *(.data.rom)
+                0x00516eb4                spar_irom_end = .
+                0x00516eb4                xip_area_end = .
+
+.text           0x0020fab8        0x0
+ CREATE_OBJECT_SYMBOLS
+ *(.app_init_code)
+ *(.emb_text)
+ *(.text)
+ *(.text.*)
+ *(EmHeAacDec)
+ *(.gnu.linkonce.t.*)
+ *(.glue_7t)
+ *(.glue_7)
+ *(.vfp11_veneer)
+ *(.v4_bx)
+ *(.ARM.extab*)
+ *(.gnu.linkonce.armextab.*)
+ *(.ARM.exidx*)
+ *(.gnu.linkonce.armexidx.*)
+
+.iplt           0x0020fab8        0x0
+ .iplt          0x0020fab8        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+
+.rel.dyn        0x0020fab8        0x0
+ .rel.iplt      0x0020fab8        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+
+.rodata         0x0020fab8        0x0
+ CREATE_OBJECT_SYMBOLS
+ *(const_drom_var)
+ *(.rodata)
+ *(.constdata*)
+ *(.rodata.*)
+ *(.gnu.linkonce.r.*)
+ *(.data.rom)
+                0x0020fab8                spar_irom_end = .
+
+.data           0x0020fab8       0x70
+ CREATE_OBJECT_SYMBOLS
+                0x0020fab8                spar_iram_begin = .
+                0x0020fab8                spar_iram_data_begin = .
+ *(.data)
+ .data          0x0020fab8        0x4 ./empty_wiced_bt.o
+                0x0020fab8                pincode
+ .data          0x0020fabc        0xc ./hci_control_ag.o
+                0x0020fabc                bd_addr_any
+                0x0020fac4                ag_features
+ .data          0x0020fac8       0x1c ./hci_control_ag_sdp.o
+                0x0020fadc                hci_control_ag_sdp_callback_tbl
+ .data          0x0020fae4       0x26 ./hci_control_le.o
+                0x0020fae4                hci_control_le_local_name
+                0x0020faf4                hci_control_le_appearance
+                0x0020faf6                hci_control_le_data_xfer_buf
+ *fill*         0x0020fb0a        0x2 
+ .data          0x0020fb0c       0x1c ./hci_control_spp.o
+ *(.data.*)
+ *(.gnu.linkonce.d.*)
+ *(.init_patch_table)
+                0x0020fb28                spar_iram_data_end = .
+                0x0020fab8                spar_irom_data_begin = spar_iram_data_begin
+
+.igot.plt       0x0020fb28        0x0
+ .igot.plt      0x0020fb28        0x0 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+
+.bss            0x0020fb28      0x858
+ CREATE_OBJECT_SYMBOLS
+                0x0020fb28                spar_iram_bss_begin = .
+ *(.bss)
+ .bss           0x0020fb28        0xa ./empty_wiced_bt.o
+                0x0020fb28                p_nvram_first
+                0x0020fb2c                p_rfcomm_trans_buf
+                0x0020fb30                rfcomm_trans_data_len
+ .bss           0x0020fb32        0x6 ./hci_control_ag.o
+                0x0020fb32                bd_addr_null
+ .bss           0x0020fb38        0x2 ./hci_control_le.o
+                0x0020fb38                hci_control_le_data_xfer_ccc
+ *fill*         0x0020fb3a        0x2 
+ .bss           0x0020fb3c        0x8 ./hci_control_spp.o
+                0x0020fb3c                spp_total_bytes
+                0x0020fb40                spp_send_data_ctr
+ *(.bss.*)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+ COMMON         0x0020fb44      0x5dc ./empty_wiced_bt.o
+                0x0020fb44                rfcomm_flow_control_timer
+                0x0020fb7c                p_key_info_pool
+                0x0020fb80                rfcomm_trans_data_timer
+                0x0020fbb8                hci_control_cb
+                0x0021011c                rfcomm_trans_pool
+ COMMON         0x00210120      0x260 ./hci_control_le.o
+                0x00210120                hci_control_le_pending_tx_buffer
+                0x00210190                hci_control_le_connect_timer
+                0x002101c8                hci_control_le_remote_bdaddr
+                0x002101d0                le_control
+                0x00210380                spar_iram_bss_end = .
+                0x00210380                spar_iram_end = .
+
+.setup          0x00210380        0x0
+ CREATE_OBJECT_SYMBOLS
+ *(.init_code)
+ *(.init_text)
+ *(.spar_setup)
+
+.aon            0x002031f4        0x0
+ CREATE_OBJECT_SYMBOLS
+                0x002031f4                aon_iram_begin = .
+ *(always_on_ram_var)
+ *(.aon_code)
+ *(.data_in_retention_ram)
+ *(.code_in_retention_ram)
+                0x002031f4                aon_iram_end = .
+
+.static_area    0x00500c00        0x0
+ CREATE_OBJECT_SYMBOLS
+                0x00500c00                static_area_begin = .
+ *(.data_in_static_area)
+                0x00500c00                static_area_end = .
+
+.log_section    0x81000004        0x0
+ CREATE_OBJECT_SYMBOLS
+ *(log_data)
+OUTPUT(EmptyWicedBluetooth2_mainapp.elf elf32-littlearm)
+
+.debug_info     0x00000000    0x19cb0
+ .debug_info    0x00000000      0xa20 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_info    0x00000a20      0x7cc ./GeneratedSource/cycfg_pins.o
+ .debug_info    0x000011ec       0x81 ./20819/generated/lib_installer.o
+ .debug_info    0x0000126d     0x4817 ./empty_wiced_bt.o
+ .debug_info    0x00005a84     0x1d6e ./hci_control_ag.o
+ .debug_info    0x000077f2     0x1f6f ./hci_control_ag_command.o
+ .debug_info    0x00009761     0x1b8e ./hci_control_ag_rfcomm.o
+ .debug_info    0x0000b2ef     0x2748 ./hci_control_ag_sco.o
+ .debug_info    0x0000da37     0x1bf2 ./hci_control_ag_sdp.o
+ .debug_info    0x0000f629     0x5d6b ./hci_control_le.o
+ .debug_info    0x00015394     0x2d1b ./hci_control_spp.o
+ .debug_info    0x000180af     0x1473 ./wiced_bt_cfg.o
+ .debug_info    0x00019522      0x78e ./wiced_platform.o
+
+.debug_abbrev   0x00000000     0x270b
+ .debug_abbrev  0x00000000      0x1fe ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_abbrev  0x000001fe       0xd1 ./GeneratedSource/cycfg_pins.o
+ .debug_abbrev  0x000002cf       0x45 ./20819/generated/lib_installer.o
+ .debug_abbrev  0x00000314      0x4fa ./empty_wiced_bt.o
+ .debug_abbrev  0x0000080e      0x3e6 ./hci_control_ag.o
+ .debug_abbrev  0x00000bf4      0x3a7 ./hci_control_ag_command.o
+ .debug_abbrev  0x00000f9b      0x3e0 ./hci_control_ag_rfcomm.o
+ .debug_abbrev  0x0000137b      0x2c6 ./hci_control_ag_sco.o
+ .debug_abbrev  0x00001641      0x33c ./hci_control_ag_sdp.o
+ .debug_abbrev  0x0000197d      0x544 ./hci_control_le.o
+ .debug_abbrev  0x00001ec1      0x4eb ./hci_control_spp.o
+ .debug_abbrev  0x000023ac      0x1e8 ./wiced_bt_cfg.o
+ .debug_abbrev  0x00002594      0x177 ./wiced_platform.o
+
+.debug_aranges  0x00000000      0x4f0
+ .debug_aranges
+                0x00000000       0x28 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_aranges
+                0x00000028       0x18 ./GeneratedSource/cycfg_pins.o
+ .debug_aranges
+                0x00000040       0x20 ./20819/generated/lib_installer.o
+ .debug_aranges
+                0x00000060       0xd8 ./empty_wiced_bt.o
+ .debug_aranges
+                0x00000138       0x68 ./hci_control_ag.o
+ .debug_aranges
+                0x000001a0       0x50 ./hci_control_ag_command.o
+ .debug_aranges
+                0x000001f0       0x48 ./hci_control_ag_rfcomm.o
+ .debug_aranges
+                0x00000238       0x38 ./hci_control_ag_sco.o
+ .debug_aranges
+                0x00000270       0x40 ./hci_control_ag_sdp.o
+ .debug_aranges
+                0x000002b0      0x138 ./hci_control_le.o
+ .debug_aranges
+                0x000003e8       0xc0 ./hci_control_spp.o
+ .debug_aranges
+                0x000004a8       0x18 ./wiced_bt_cfg.o
+ .debug_aranges
+                0x000004c0       0x30 ./wiced_platform.o
+
+.debug_ranges   0x00000000      0x718
+ .debug_ranges  0x00000000       0x18 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_ranges  0x00000018       0x10 ./20819/generated/lib_installer.o
+ .debug_ranges  0x00000028      0x198 ./empty_wiced_bt.o
+ .debug_ranges  0x000001c0       0x70 ./hci_control_ag.o
+ .debug_ranges  0x00000230       0x60 ./hci_control_ag_command.o
+ .debug_ranges  0x00000290       0x38 ./hci_control_ag_rfcomm.o
+ .debug_ranges  0x000002c8       0x28 ./hci_control_ag_sco.o
+ .debug_ranges  0x000002f0       0x30 ./hci_control_ag_sdp.o
+ .debug_ranges  0x00000320      0x290 ./hci_control_le.o
+ .debug_ranges  0x000005b0      0x148 ./hci_control_spp.o
+ .debug_ranges  0x000006f8       0x20 ./wiced_platform.o
+
+.debug_macro    0x00000000     0x856c
+ .debug_macro   0x00000000      0x17b ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000017b     0x12fa ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00001475      0x174 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x000015e9       0x22 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000160b       0x52 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000165d       0x17 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00001674       0x8d ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00001701       0x35 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00001736       0x9c ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x000017d2       0x1c ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x000017ee     0x117c ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000296a      0x1ad ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002b17       0x2e ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002b45       0x16 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002b5b       0x57 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002bb2       0x58 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002c0a       0x1f ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002c29       0x43 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002c6c       0x20 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002c8c      0x18e ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00002e1a      0x330 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000314a       0x10 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000315a       0x35 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000318f       0x1d ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x000031ac       0xef ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x0000329b       0x6a ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00003305      0x1df ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x000034e4       0x22 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00003506       0x1f ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00003525       0x6d ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_macro   0x00003592      0x117 ./GeneratedSource/cycfg_pins.o
+ .debug_macro   0x000036a9       0x59 ./20819/generated/lib_installer.o
+ .debug_macro   0x00003702      0x33b ./empty_wiced_bt.o
+ .debug_macro   0x00003a3d       0x34 ./empty_wiced_bt.o
+ .debug_macro   0x00003a71       0x10 ./empty_wiced_bt.o
+ .debug_macro   0x00003a81       0x46 ./empty_wiced_bt.o
+ .debug_macro   0x00003ac7       0x11 ./empty_wiced_bt.o
+ .debug_macro   0x00003ad8       0x58 ./empty_wiced_bt.o
+ .debug_macro   0x00003b30       0x16 ./empty_wiced_bt.o
+ .debug_macro   0x00003b46      0x76c ./empty_wiced_bt.o
+ .debug_macro   0x000042b2      0x172 ./empty_wiced_bt.o
+ .debug_macro   0x00004424       0x16 ./empty_wiced_bt.o
+ .debug_macro   0x0000443a       0x4c ./empty_wiced_bt.o
+ .debug_macro   0x00004486     0x17b1 ./empty_wiced_bt.o
+ .debug_macro   0x00005c37       0xbe ./empty_wiced_bt.o
+ .debug_macro   0x00005cf5      0x142 ./empty_wiced_bt.o
+ .debug_macro   0x00005e37       0xb2 ./empty_wiced_bt.o
+ .debug_macro   0x00005ee9       0x92 ./empty_wiced_bt.o
+ .debug_macro   0x00005f7b       0x10 ./empty_wiced_bt.o
+ .debug_macro   0x00005f8b      0x28f ./hci_control_ag.o
+ .debug_macro   0x0000621a      0xde2 ./hci_control_ag.o
+ .debug_macro   0x00006ffc      0x2c4 ./hci_control_ag_command.o
+ .debug_macro   0x000072c0      0x276 ./hci_control_ag_rfcomm.o
+ .debug_macro   0x00007536      0x27c ./hci_control_ag_sco.o
+ .debug_macro   0x000077b2      0x294 ./hci_control_ag_sdp.o
+ .debug_macro   0x00007a46      0x33a ./hci_control_le.o
+ .debug_macro   0x00007d80      0x168 ./hci_control_le.o
+ .debug_macro   0x00007ee8      0x2a3 ./hci_control_spp.o
+ .debug_macro   0x0000818b      0x22b ./wiced_bt_cfg.o
+ .debug_macro   0x000083b6       0xca ./wiced_bt_cfg.o
+ .debug_macro   0x00008480       0xec ./wiced_platform.o
+
+.debug_line     0x00000000     0x6547
+ .debug_line    0x00000000      0x59b ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_line    0x0000059b      0x4c0 ./GeneratedSource/cycfg_pins.o
+ .debug_line    0x00000a5b      0x19d ./20819/generated/lib_installer.o
+ .debug_line    0x00000bf8      0xc90 ./empty_wiced_bt.o
+ .debug_line    0x00001888      0x888 ./hci_control_ag.o
+ .debug_line    0x00002110      0x8f3 ./hci_control_ag_command.o
+ .debug_line    0x00002a03      0x80b ./hci_control_ag_rfcomm.o
+ .debug_line    0x0000320e      0x7bc ./hci_control_ag_sco.o
+ .debug_line    0x000039ca      0x7f1 ./hci_control_ag_sdp.o
+ .debug_line    0x000041bb      0xe55 ./hci_control_le.o
+ .debug_line    0x00005010      0xa5b ./hci_control_spp.o
+ .debug_line    0x00005a6b      0x59d ./wiced_bt_cfg.o
+ .debug_line    0x00006008      0x53f ./wiced_platform.o
+
+.debug_str      0x00000000    0x5974d
+ .debug_str     0x00000000     0xd039 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+                               0xd357 (size before relaxing)
+ .debug_str     0x0000d039     0x112a ./GeneratedSource/cycfg_pins.o
+                               0xb935 (size before relaxing)
+ .debug_str     0x0000e163       0x23 ./20819/generated/lib_installer.o
+                               0x5d0f (size before relaxing)
+ .debug_str     0x0000e186    0x43cd2 ./empty_wiced_bt.o
+                              0x514cc (size before relaxing)
+ .debug_str     0x00051e58      0x2e7 ./hci_control_ag.o
+                              0x4e997 (size before relaxing)
+ .debug_str     0x0005213f      0x57c ./hci_control_ag_command.o
+                              0x4eb1d (size before relaxing)
+ .debug_str     0x000526bb      0x4a6 ./hci_control_ag_rfcomm.o
+                              0x4e0ee (size before relaxing)
+ .debug_str     0x00052b61      0x117 ./hci_control_ag_sco.o
+                              0x4f7b4 (size before relaxing)
+ .debug_str     0x00052c78      0x492 ./hci_control_ag_sdp.o
+                              0x4ea8c (size before relaxing)
+ .debug_str     0x0005310a     0x5d95 ./hci_control_le.o
+                              0x54751 (size before relaxing)
+ .debug_str     0x00058e9f      0x5a3 ./hci_control_spp.o
+                              0x4f56e (size before relaxing)
+ .debug_str     0x00059442      0x166 ./wiced_bt_cfg.o
+                              0x3d870 (size before relaxing)
+ .debug_str     0x000595a8      0x1a5 ./wiced_platform.o
+                               0xb404 (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 ./GeneratedSource/cycfg_pins.o
+ .comment       0x0000007f       0x80 ./20819/generated/lib_installer.o
+ .comment       0x0000007f       0x80 ./empty_wiced_bt.o
+ .comment       0x0000007f       0x80 ./hci_control_ag.o
+ .comment       0x0000007f       0x80 ./hci_control_ag_command.o
+ .comment       0x0000007f       0x80 ./hci_control_ag_rfcomm.o
+ .comment       0x0000007f       0x80 ./hci_control_ag_sco.o
+ .comment       0x0000007f       0x80 ./hci_control_ag_sdp.o
+ .comment       0x0000007f       0x80 ./hci_control_le.o
+ .comment       0x0000007f       0x80 ./hci_control_spp.o
+ .comment       0x0000007f       0x80 ./wiced_bt_cfg.o
+ .comment       0x0000007f       0x80 ./wiced_platform.o
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .ARM.attributes
+                0x00000033       0x33 ./GeneratedSource/cycfg_pins.o
+ .ARM.attributes
+                0x00000066       0x33 ./20819/generated/lib_installer.o
+ .ARM.attributes
+                0x00000099       0x33 ./empty_wiced_bt.o
+ .ARM.attributes
+                0x000000cc       0x33 ./hci_control_ag.o
+ .ARM.attributes
+                0x000000ff       0x33 ./hci_control_ag_command.o
+ .ARM.attributes
+                0x00000132       0x33 ./hci_control_ag_rfcomm.o
+ .ARM.attributes
+                0x00000165       0x33 ./hci_control_ag_sco.o
+ .ARM.attributes
+                0x00000198       0x33 ./hci_control_ag_sdp.o
+ .ARM.attributes
+                0x000001cb       0x33 ./hci_control_le.o
+ .ARM.attributes
+                0x000001fe       0x33 ./hci_control_spp.o
+ .ARM.attributes
+                0x00000231       0x33 ./wiced_bt_cfg.o
+ .ARM.attributes
+                0x00000264       0x33 ./wiced_platform.o
+
+.debug_frame    0x00000000     0x1118
+ .debug_frame   0x00000000       0x48 ./bt_sdk-1.1/components/BT-SDK/208XX-A1_Bluetooth/WICED/common/spar_setup.o
+ .debug_frame   0x00000048       0x20 ./20819/generated/lib_installer.o
+ .debug_frame   0x00000068      0x310 ./empty_wiced_bt.o
+ .debug_frame   0x00000378      0x194 ./hci_control_ag.o
+ .debug_frame   0x0000050c      0x15c ./hci_control_ag_command.o
+ .debug_frame   0x00000668       0xf0 ./hci_control_ag_rfcomm.o
+ .debug_frame   0x00000758       0x98 ./hci_control_ag_sco.o
+ .debug_frame   0x000007f0       0x94 ./hci_control_ag_sdp.o
+ .debug_frame   0x00000884      0x544 ./hci_control_le.o
+ .debug_frame   0x00000dc8      0x2e4 ./hci_control_spp.o
+ .debug_frame   0x000010ac       0x6c ./wiced_platform.o
+
+.debug_loc      0x00000000     0x5db7
+ .debug_loc     0x00000000     0x14c8 ./empty_wiced_bt.o
+ .debug_loc     0x000014c8      0x507 ./hci_control_ag.o
+ .debug_loc     0x000019cf      0x683 ./hci_control_ag_command.o
+ .debug_loc     0x00002052      0x2ec ./hci_control_ag_rfcomm.o
+ .debug_loc     0x0000233e      0x266 ./hci_control_ag_sco.o
+ .debug_loc     0x000025a4      0x1e5 ./hci_control_ag_sdp.o
+ .debug_loc     0x00002789     0x2992 ./hci_control_le.o
+ .debug_loc     0x0000511b      0xbb7 ./hci_control_spp.o
+ .debug_loc     0x00005cd2       0xe5 ./wiced_platform.o
